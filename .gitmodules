@@ -1,0 +1,36 @@
+[submodule "ps4-ftp"]
+	path = ps4-ftp
+	url = https://github.com/Scene-Collective/ps4-ftp
+[submodule "ps4-kernel-dumper"]
+	path = ps4-kernel-dumper
+	url = https://github.com/Scene-Collective/ps4-kernel-dumper
+[submodule "ps4-restore"]
+	path = ps4-restore
+	url = https://github.com/Scene-Collective/ps4-restore
+[submodule "ps4-history-blocker"]
+	path = ps4-history-blocker
+	url = https://github.com/Scene-Collective/ps4-history-blocker
+[submodule "ps4-enable-updates"]
+	path = ps4-enable-updates
+	url = https://github.com/Scene-Collective/ps4-enable-updates
+[submodule "ps4-enable-browser"]
+	path = ps4-enable-browser
+	url = https://github.com/Scene-Collective/ps4-enable-browser
+[submodule "ps4-dumper"]
+	path = ps4-dumper
+	url = https://github.com/Scene-Collective/ps4-dumper
+[submodule "ps4-disable-updates"]
+	path = ps4-disable-updates
+	url = https://github.com/Scene-Collective/ps4-disable-updates
+[submodule "ps4-backup"]
+	path = ps4-backup
+	url = https://github.com/Scene-Collective/ps4-backup
+[submodule "ps4-app2usb"]
+	path = ps4-app2usb
+	url = https://github.com/Scene-Collective/ps4-app2usb
+[submodule "ps4-rif-renamer"]
+	path = ps4-rif-renamer
+	url = https://github.com/Scene-Collective/ps4-rif-renamer
+[submodule "ps4-payload-sdk"]
+	path = ps4-payload-sdk
+	url = https://github.com/Scene-Collective/ps4-payload-sdk
