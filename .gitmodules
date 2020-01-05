@@ -34,3 +34,9 @@
 [submodule "ps4-payload-sdk"]
 	path = ps4-payload-sdk
 	url = https://github.com/Scene-Collective/ps4-payload-sdk
+[submodule "ps4-fan-threshold"]
+	path = ps4-fan-threshold
+	url = https://github.com/Scene-Collective/ps4-fan-threshold
+[submodule "ps4-kernel-clock"]
+	path = ps4-kernel-clock
+	url = https://github.com/Scene-Collective/ps4-kernel-clock
